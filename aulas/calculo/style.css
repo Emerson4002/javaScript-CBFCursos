@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(165, 242, 245);
+}
+section{
+    background-color: white;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+}
